@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Search Page";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-3">
+            @await Component.InvokeAsync("Search_Filter");
+
+        </div>
+        <div class="col-sm-9">
+            @await Html.PartialAsync("Search_Result");
+        </div>
+    </div>
+</div>

@@ -1,0 +1,6 @@
+﻿.progress-bar {
+    width: 120px;
+    height: 120px;
+    border-radius: 75%;
+    background: radial-gradient(closest-side, white 79%, transparent 80% 100%), conic-gradient(hotpink 65%, pink 0);
+}

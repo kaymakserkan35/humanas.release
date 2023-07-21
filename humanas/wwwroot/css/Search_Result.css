@@ -1,0 +1,7 @@
+﻿
+@media (max-width: 576px) {
+    #profile_context {
+        display: flex;
+        flex-direction: column;
+    }
+}

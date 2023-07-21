@@ -30,8 +30,8 @@ namespace ui.Controllers
 
         public async Task<IActionResult> Index()
         {
-
-            var response = await apiClient.GetAsync(Apis.distritcs); // API'den veriyi çekin
+            /*
+             * var response = await apiClient.GetAsync(Apis.distritcs); // API'den veriyi çekin
             response.EnsureSuccessStatusCode(); // Eğer başarısız olursa hata atsın
 
             using (var responseStream = await response.Content.ReadAsStreamAsync())
@@ -39,7 +39,9 @@ namespace ui.Controllers
                 var result = await JsonSerializer.DeserializeAsync<Response<District>>(responseStream); // API'den dönen JSON veriyi deserializasyon yapın
                 return View(result.Data); // View'e veriyi gönderin
             }
+             */
 
+            return View();
         }
 
         public IActionResult Search()

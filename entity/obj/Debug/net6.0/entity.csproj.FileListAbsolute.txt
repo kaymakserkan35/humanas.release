@@ -34,3 +34,15 @@ C:\Users\Asus\Desktop\humanas\humanas\3\humanas\entity\obj\Debug\net6.0\entity.d
 C:\Users\Asus\Desktop\humanas\humanas\3\humanas\entity\obj\Debug\net6.0\refint\entity.dll
 C:\Users\Asus\Desktop\humanas\humanas\3\humanas\entity\obj\Debug\net6.0\entity.pdb
 C:\Users\Asus\Desktop\humanas\humanas\3\humanas\entity\obj\Debug\net6.0\ref\entity.dll
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\bin\Debug\net6.0\entity.deps.json
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\bin\Debug\net6.0\entity.dll
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\bin\Debug\net6.0\entity.pdb
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\entity.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\entity.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\entity.AssemblyInfo.cs
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\entity.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\entity.dll
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\refint\entity.dll
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\entity.pdb
+C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release.githup\entity\obj\Debug\net6.0\ref\entity.dll

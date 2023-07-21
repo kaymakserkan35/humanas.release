@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kYhkWma1Eaw2hSTBCA+ntHmCydYZ99TXEWtns2g1eWg=",
+  "Hash": "pH3JJCEKdEnLo0LW+QrNwB5SWTP84B8YMdqyBd30kxM=",
   "Source": "ui",
   "BasePath": "_content/ui",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "web.api",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],

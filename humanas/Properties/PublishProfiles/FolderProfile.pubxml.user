@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Asus\Desktop\humanas.release\humanas\humanas.release\humanas\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-07-21T09:43:09.9104513Z;False|2023-07-21T03:42:13.3670897-06:00;False|2023-07-21T03:41:09.4833924-06:00;False|2023-07-21T03:39:58.2340380-06:00;False|2023-07-21T03:38:23.9923334-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

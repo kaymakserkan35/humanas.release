@@ -1,0 +1,91 @@
+﻿
+button {
+    width: 100%;
+    background-color: #2783c0;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+    button img {
+        border: rgb(158, 138, 138);
+        border-width: 50px;
+        margin-right: 25px;
+        width: 50px;
+        height: 50px;
+        order: -1;
+    }
+
+    button div {
+        display: flex;
+        flex: 1;
+        justify-content: center;
+    }
+
+.row {
+    width: 100%;
+}
+
+hr {
+    background-color: rgb(224, 210, 210);
+    height: 3px;
+}
+
+form {
+    width: 100%;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+button[type="submit"] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: rgb(247, 236, 236);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.linkedin_login {
+    width: 100%;
+    background-color: #2f3438;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.svg-image {
+    width: 40px;
+    /* İstediğiniz genişliği buradan ayarlayabilirsiniz */
+    height: 40px;
+    /* İstediğiniz yüksekliği buradan ayarlayabilirsiniz */
+    margin-right: 50px;
+    /* Düğme ve SVG arasındaki boşluğu ayarlamak için */
+}
+
+
+body :is(h1, h2, h3, h4, h5, h6) {
+    text-transform: capitalize;
+}
+
+body button {
+    background-color: black;
+}

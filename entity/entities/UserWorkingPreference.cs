@@ -8,9 +8,9 @@ namespace entity.entities
 {
     public class UserWorkingPreference
     {
+        public int Id { get; set; }
 
-
-        public virtual UserExt User { get; set; }
+        public virtual UserExt UserExt { get; set; }
         public int UserExtId { get; set; }
         public virtual WorkingPreference WorkingPreference { get; set; }
         public int WorkingPreferenceId { get; set; }

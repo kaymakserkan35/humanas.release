@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using ui;
@@ -6,6 +6,10 @@ using Microsoft.Extensions.Configuration;
 using System.Text;
 using data.access.Context;
 using data.access;
+using entity.entities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Data.Sqlite;
+using web.api.Utilities.JwtToken;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,34 +18,16 @@ builder.Services.AddScoped<IRepository, RepositoryFason>();
 
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddHttpClient();
-builder.Services.AddDbContext<Context_Concete>(options =>
-{
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
-});
 
-var jwtSettings = builder.Configuration.GetSection("JwtSettings");
-var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["SecretKey"]));
-builder.Services.AddAuthentication(options =>
-{
-    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-})
-       .AddJwtBearer(options =>
-       {
-           options.RequireHttpsMetadata = false;
-           options.SaveToken = true;
-           options.TokenValidationParameters = new TokenValidationParameters
-           {
-               ValidateIssuerSigningKey = true,
-               IssuerSigningKey = key,
-               ValidateIssuer = true,
-               ValidIssuer = jwtSettings["Issuer"],
-               ValidateAudience = true,
-               ValidAudience = jwtSettings["Audience"],
-               ValidateLifetime = true,
-           };
-       });
+
+
+JwtConfig jwtConfig = JwtConfig.getInstance();
+builder.Services.AddAuthentication(JwtConfig.shema)
+    .AddJwtBearer(options => { options.SaveToken = true; jwtConfig.GetTokenValidationParameters(); });
+
+builder.Services.AddAuthorizationCore();
 
 var app = builder.Build();
 
@@ -58,17 +44,13 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 
-app.UseEndpoints(endpoints =>
-{
-    endpoints.RegisterMyRoutes();
+app.RegisterMyRoutes();
 
-endpoints.MapControllers(); });
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Auth}/{action=Auth}/{id?}");
+
 
 app.Run();

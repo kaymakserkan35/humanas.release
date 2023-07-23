@@ -15,7 +15,7 @@ namespace data.access
         private IContext context;
         public RepositoryFason()
         {
-            context = new Context_Concrete_fason();
+            context = new ContextFason();
         }
 
         public List<District> districts => context._Districts;

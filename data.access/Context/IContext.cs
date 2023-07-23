@@ -10,10 +10,10 @@ namespace data.access.Context
 {
     public interface IContext
     {
-        public List<UserExt> _Users { get; }
-        public List<District> _Districts { get; }
-        public List<Motivation> _Motivations { get; }
-        public List<WorkingPreference> _WorkingPreferences { get; }
+        public List<UserExt> _Users { get; set; }
+        public List<District> _Districts { get; set; }
+        public List<Motivation> _Motivations { get; set; }
+        public List<WorkingPreference> _WorkingPreferences { get; set; }
 
     }
 }

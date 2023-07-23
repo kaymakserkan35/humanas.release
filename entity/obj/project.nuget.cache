@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yu1SYvOGXsdfvPlhhaWByldKal0fhQRWKPW9Xnd5VJ6aAy5uoYOTetnlDJ5EgKJ4UDUNhljt+8jJqhS2FNmCYg==",
+  "dgSpecHash": "cd6GHfKXj60a5sAjn+6dzu7VxNoLiHb9GkdPxRp0LbzFVAcuycAM1IRyDrEsRZDjB95TS4tj3e2Gd57BRbTMLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\humanas.release\\humanas\\humanas.release.githup\\entity\\entity.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\humanas.release\\humanas\\humanas.release.githup\\entity\\entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.9\\microsoft.aspnetcore.cryptography.internal.7.0.9.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.9\\microsoft.aspnetcore.cryptography.keyderivation.7.0.9.nupkg.sha512",
@@ -23,7 +23,6 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],

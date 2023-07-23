@@ -8,7 +8,8 @@ namespace entity.entities
 {
     public class UserDistrict
     {
-        public UserExt User { get; set; }
+        public int Id { get; set; }
+        public UserExt UserExt { get; set; }
         public int UserExtId { get; set; }
 
         public District District { get; set; }

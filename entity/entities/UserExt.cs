@@ -9,23 +9,33 @@ using System.Threading.Tasks;
 
 namespace entity.entities
 {
-    public class UserExt  : IdentityUser<int>
+    public class UserExt : IdentityUser<int>
     {
 
         public UserExt()
         {
-            UserMotivation = new HashSet<UserMotivation>();
+            UserMotivations = new HashSet<UserMotivation>();
+            UserWorkingPreferences = new HashSet<UserWorkingPreference>();
 
-            UserWorkingPreference = new HashSet<UserWorkingPreference>();
         }
 
-      
-        public string Name { get; set; }
+
         public string SurName { get; set; }
-        public string Title { get; set; }
+        public string? Title { get; set; }
 
-        public virtual ICollection<UserMotivation> UserMotivation { get; set; }
 
-        public virtual ICollection<UserWorkingPreference> UserWorkingPreference { get; set; }
+
+
+
+
+        public string? RefrestToken { get; set; }
+        public string? JwtToken { get; set; }
+        public DateTime? JwtTokenExpTime { get; set; }
+        public DateTime? RefresTokenExpTime { get; set; }
+
+        public virtual ICollection<UserMotivation> UserMotivations { get; set; }
+        public virtual ICollection<UserWorkingPreference> UserWorkingPreferences { get; set; }
+
+
     }
 }

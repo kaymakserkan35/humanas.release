@@ -59,11 +59,11 @@ namespace data.access.Context
 
                 var x = new UserExt()
                 {
-                    Name = Faker.Name.First(),
+                    UserName = Faker.Name.First(),
                     SurName = Faker.Name.Last()
 
                 };
-                x.Email = x.SurName + "_" + x.Name + "@";
+                x.Email = x.SurName + "_" + x.UserName + "@";
                 x.Email += i % 2 == 0 ? "hotmail" : "gmail";
                 x.Email += ".com";
 
@@ -98,7 +98,7 @@ namespace data.access.Context
                 int districtId = random.Next(districts.Count);
                 UserDistrict userDistrict = new UserDistrict()
                 {
-                    User = user,
+                    UserExt = user,
                     District = districts[districtId]
                 };
                 userDistricts.Add(userDistrict);
@@ -117,7 +117,7 @@ namespace data.access.Context
                 int motivationId = random.Next(motivations.Count);
                 UserMotivation userMotivation = new UserMotivation()
                 {
-                    User = user,
+                    UserExt = user,
                     Motivation = motivations[motivationId]
                 };
                 userMotivations.Add(userMotivation);
@@ -135,7 +135,7 @@ namespace data.access.Context
                 int preferenceId = random.Next(preferences.Count);
                 UserWorkingPreference userPreference = new UserWorkingPreference()
                 {
-                    User = user,
+                    UserExt = user,
                     WorkingPreference = preferences[preferenceId]
                 };
                 userPreferences.Add(userPreference);

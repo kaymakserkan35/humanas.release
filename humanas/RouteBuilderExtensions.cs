@@ -10,17 +10,19 @@
             /*------------------------------------------------------------------*/
             routes.MapControllerRoute(
                name: "default",
-               pattern: "{controller=Auth}/{action=Auth}/{id?}");
-            /*-------------------------------------------------------------------------*/
+               pattern: "{controller=Auth}/{action=Auth}/{*rest...}");
+
+
             routes.MapControllerRoute(
-              name: "Auth_Auth",
-              pattern: "{controller=Home}/{action=Index}/{id?}");
+            name: "Auth_Login",
+            pattern: "{controller=Auth}/{action=Login}/{*rest...}");
+            /*-------------------------------------------------------------------------*/
             /*-------------------------------------------------------------------------*/
             routes.MapControllerRoute(
              name: "default",
              pattern: "{controller=Home}/{action=Search}/{id?}");
             /*-------------------------------------------------------------------------*/
-           
+
 
         }
     }

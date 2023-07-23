@@ -1,6 +1,5 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@using ui.Models;
+@model AuthModel;
 @{
 
     ViewData["Title"] = "Authacantation";
@@ -19,7 +18,7 @@
     <link rel="stylesheet" href="~/css/auth.css" />
 
 </head>
-<body class ="container-fluid  ">
+<body class="container-fluid  ">
 
     <div class="row">
         <div class="col">
@@ -45,16 +44,16 @@
 
     <div class="row">
         <div class="col">
-            <form>
+            <form asp-controller="Auth" asp-action="LogInOrSıgnIn" method="post">
                 <div style="margin-bottom: 10px;">
-                    <label for="email">E-posta:</label>
-                    <input type="email" id="email" name="email" placeholder="E-posta adresinizi girin">
+                    <label for="Email">E-posta:</label>
+                    <input asp-for="Email" type="email" id="email" name="email" placeholder="E-posta adresinizi girin">
                 </div>
                 <div style="margin-bottom: 20px;">
-                    <label for="password">Şifre:</label>
-                    <input type="password" id="password" name="password" placeholder="Şifrenizi girin">
+                    <label for="Password">Şifre:</label>
+                    <input asp-for="Password" type="password" id="password" name="password" placeholder="Şifrenizi girin">
                 </div>
-                <button asp-controller="Home" asp-action="Index"  type="submit">Giriş Yap</button>
+                <button type="submit">Giriş Yap</button>
             </form>
         </div>
     </div>

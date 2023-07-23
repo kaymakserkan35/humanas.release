@@ -9,9 +9,6 @@
       "ui/1.0.0": {
         "dependencies": {
           "FontAwesome": "4.7.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.20",
-          "Microsoft.EntityFrameworkCore.Sqlite": "7.0.9",
-          "Microsoft.IdentityModel.Tokens": "6.32.0",
           "web.api": "1.0.0"
         },
         "runtime": {
@@ -607,6 +604,7 @@
       "data.access/1.0.0": {
         "dependencies": {
           "Faker.Net": "2.0.154",
+          "Microsoft.EntityFrameworkCore.Sqlite": "7.0.9",
           "entity": "1.0.0"
         },
         "runtime": {
@@ -624,6 +622,8 @@
       },
       "web.api/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.20",
+          "Microsoft.IdentityModel.Tokens": "6.32.0",
           "Swashbuckle.AspNetCore": "6.2.3",
           "data.access": "1.0.0"
         },

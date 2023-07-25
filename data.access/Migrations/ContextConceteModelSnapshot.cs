@@ -177,6 +177,27 @@ namespace data.access.Migrations
                     b.ToTable("Motivations");
                 });
 
+            modelBuilder.Entity("entity.entities.UserDistrict", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("DistrictId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("UserExtId")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DistrictId");
+
+                    b.HasIndex("UserExtId");
+
+                    b.ToTable("UserDistrict");
+                });
+
             modelBuilder.Entity("entity.entities.UserExt", b =>
                 {
                     b.Property<int>("Id")
@@ -369,6 +390,25 @@ namespace data.access.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("entity.entities.UserDistrict", b =>
+                {
+                    b.HasOne("entity.entities.District", "District")
+                        .WithMany("UserDistricts")
+                        .HasForeignKey("DistrictId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("entity.entities.UserExt", "UserExt")
+                        .WithMany("UserDistricts")
+                        .HasForeignKey("UserExtId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("District");
+
+                    b.Navigation("UserExt");
+                });
+
             modelBuilder.Entity("entity.entities.UserMotivation", b =>
                 {
                     b.HasOne("entity.entities.Motivation", "Motivation")
@@ -407,6 +447,11 @@ namespace data.access.Migrations
                     b.Navigation("WorkingPreference");
                 });
 
+            modelBuilder.Entity("entity.entities.District", b =>
+                {
+                    b.Navigation("UserDistricts");
+                });
+
             modelBuilder.Entity("entity.entities.Motivation", b =>
                 {
                     b.Navigation("UserMotivations");
@@ -414,6 +459,8 @@ namespace data.access.Migrations
 
             modelBuilder.Entity("entity.entities.UserExt", b =>
                 {
+                    b.Navigation("UserDistricts");
+
                     b.Navigation("UserMotivations");
 
                     b.Navigation("UserWorkingPreferences");

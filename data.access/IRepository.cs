@@ -12,6 +12,7 @@ namespace data.access
         List<District> districts { get; }
         List<Motivation> motivations { get; }
         List<WorkingPreference> workingPreferences { get; }
+        List<UserExt> persons { get; }
 
     }
 }

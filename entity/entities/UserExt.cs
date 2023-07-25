@@ -16,6 +16,7 @@ namespace entity.entities
         {
             UserMotivations = new HashSet<UserMotivation>();
             UserWorkingPreferences = new HashSet<UserWorkingPreference>();
+            UserDistricts = new HashSet<UserDistrict>();
 
         }
 
@@ -35,6 +36,7 @@ namespace entity.entities
 
         public virtual ICollection<UserMotivation> UserMotivations { get; set; }
         public virtual ICollection<UserWorkingPreference> UserWorkingPreferences { get; set; }
+        public virtual ICollection<UserDistrict> UserDistricts { get; set; }
 
 
     }

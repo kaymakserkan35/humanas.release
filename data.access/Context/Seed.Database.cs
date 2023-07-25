@@ -21,7 +21,7 @@ namespace data.access.Context
         public static List<District> seedDistriact(int num, bool setId)
         {
             List<District> districts = new List<District>();
-            for (int i = 0; i < num; i++)
+            for (int i = 1; i < num; i++)
             {
 
                 var d = new District()
@@ -37,7 +37,7 @@ namespace data.access.Context
         public static List<Motivation> seedMotivation(bool setId)
         {
             List<Motivation> motivations = new List<Motivation>();
-            int i = 0;
+            int i = 1;
             foreach (string motivation in Enum.GetNames(typeof(Motivations)))
             {
                 Motivation m = new Motivation()
@@ -54,7 +54,7 @@ namespace data.access.Context
         public static List<UserExt> seedUser(int num, bool setId)
         {
             List<UserExt> list = new List<UserExt>();
-            for (int i = 0; i < num; i++)
+            for (int i = 1; i < num; i++)
             {
 
                 var x = new UserExt()
@@ -75,7 +75,7 @@ namespace data.access.Context
         public static List<WorkingPreference> seedPreference(bool setId)
         {
             List<WorkingPreference> list = new List<WorkingPreference>();
-            int i = 0;
+            int i = 1;
             foreach (string preference in Enum.GetNames(typeof(WorkingPreferences)))
             {
                 WorkingPreference x = new WorkingPreference();
@@ -88,73 +88,94 @@ namespace data.access.Context
             return list;
         }
 
-        public static List<UserDistrict> seedUserDistrict(List<UserExt> users, List<District> districts)
+        public static List<UserDistrict> seedUserDistrict(List<UserExt> users, List<District> districts,bool setId=true)
         {
             List<UserDistrict> userDistricts = new List<UserDistrict>();
             Random random = new Random();
 
             foreach (UserExt user in users)
             {
-                int districtId = random.Next(districts.Count);
-                UserDistrict userDistrict = new UserDistrict()
+
+                for (int i = 1; i < 10; i++)
                 {
-                    UserExt = user,
-                    District = districts[districtId]
-                };
-                userDistricts.Add(userDistrict);
+                    int districtId = random.Next(districts.Count);
+                 
+                    UserDistrict userDistrict = new UserDistrict()
+                    {
+                        UserExtId = user.Id,
+                        UserExt = user,
+                        District = districts[districtId],
+                        DistrictId= districtId
+                    };
+                    userDistricts.Add(userDistrict);
+                    user.UserDistricts.Add(userDistrict);
+                    if (setId) userDistrict.Id = districtId*user.Id;
+                                     
+                }
+
             }
 
             return userDistricts;
         }
 
-        public static List<UserMotivation> seedUserMotivation(List<UserExt> users, List<Motivation> motivations)
+        public static List<UserMotivation> seedUserMotivation(List<UserExt> users, List<Motivation> motivations,bool setId=true)
         {
             List<UserMotivation> userMotivations = new List<UserMotivation>();
             Random random = new Random();
 
             foreach (UserExt user in users)
             {
-                int motivationId = random.Next(motivations.Count);
-                UserMotivation userMotivation = new UserMotivation()
+                for (int i = 1; i < 4; i++)
                 {
-                    UserExt = user,
-                    Motivation = motivations[motivationId]
-                };
-                userMotivations.Add(userMotivation);
+                    int motivationId = random.Next(motivations.Count);
+      
+                    UserMotivation userMotivation = new UserMotivation()
+                    {
+                        UserExtId = user.Id,
+                        UserExt = user,
+                        Motivation = motivations[motivationId],
+                        MotivationId= motivationId
+                    };
+                    if(setId) userMotivation.Id = motivationId*user.Id;
+                    userMotivations.Add(userMotivation);
+                    user.UserMotivations.Add(userMotivation);
+                }
+               
+               
             }
 
             return userMotivations;
         }
-        public static List<UserWorkingPreference> seedUserWorkingPreference(List<UserExt> users, List<WorkingPreference> preferences)
+        public static List<UserWorkingPreference> seedUserWorkingPreference(List<UserExt> users, List<WorkingPreference> preferences,bool setId=true)
         {
             List<UserWorkingPreference> userPreferences = new List<UserWorkingPreference>();
             Random random = new Random();
 
             foreach (UserExt user in users)
             {
-                int preferenceId = random.Next(preferences.Count);
-                UserWorkingPreference userPreference = new UserWorkingPreference()
+                for (int i = 1; i < 3; i++)
                 {
-                    UserExt = user,
-                    WorkingPreference = preferences[preferenceId]
-                };
-                userPreferences.Add(userPreference);
+                    int preferenceId = random.Next(preferences.Count);
+                  
+                    UserWorkingPreference userPreference = new UserWorkingPreference()
+                    {
+                        UserExtId = user.Id,
+                        UserExt = user,
+                        WorkingPreference = preferences[preferenceId],
+                        WorkingPreferenceId=preferenceId,
+           
+                    };
+                    if (setId) userPreference.Id = preferenceId * user.Id;
+                    userPreferences.Add(userPreference);
+                    user.UserWorkingPreferences.Add(userPreference);
+                }
+
             }
 
             return userPreferences;
         }
 
 
-        public static void seedAll()
-        {
-            List<UserExt> users = seedUser(100, true);
-            List<District> districts = seedDistriact(100, true);
-            List<Motivation> motivations = seedMotivation(true);
-            List<WorkingPreference> preferences = seedPreference(true);
-
-            List<UserDistrict> userDistricts = seedUserDistrict(users, districts);
-            List<UserMotivation> userMotivations = seedUserMotivation(users, motivations);
-            List<UserWorkingPreference> userPreferences = seedUserWorkingPreference(users, preferences);
-        }
+       
     }
 }

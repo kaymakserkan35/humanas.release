@@ -1,14 +1,14 @@
-using data.access;
+﻿using data.access;
 using entity.entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using web.api.DTOS;
 
 
 namespace web.api.Controllers
 {
 
-    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class ServiceController : ControllerBase
@@ -47,6 +47,52 @@ namespace web.api.Controllers
             var result = new Response<List<WorkingPreference>>();
             result.Data = repository.workingPreferences;
             return result;
+        }
+
+
+
+        [HttpGet]
+        [Route("[action]")]
+        public Response<List<PersonDto>> ReadAllPersons()
+        {
+
+            var persons = new List<PersonDto>();
+            foreach (var person in repository.persons) persons.Add(new PersonDto(person));
+            return new Response<List<PersonDto>>(persons);
+        }
+
+
+        [HttpGet]
+        [Route("[action]")] // birincisi fazla uzun url ler hata verir! ve bu get methodu client dan veri almak için güzenli değildir. link bir 3. part client tarafından kolayca değiştirilebilinir!
+        public Response<List<PersonDto>> ReadPersonsByQuery([FromQuery] List<int> motivationIds, [FromQuery] List<int> workingPreferenceIds, [FromQuery] List<int> selectedUserDistricts)
+        {
+
+            var res = repository.persons
+                  .Where(x => x.UserMotivations.Any(m => motivationIds.Contains(m.Id)))
+                   .Where(x => x.UserWorkingPreferences.Any(m => workingPreferenceIds.Contains(m.Id)))
+              .Where(x => x.UserDistricts.Any(m => selectedUserDistricts.Contains(m.Id)));
+
+
+
+            var persons = new List<PersonDto>();
+            foreach (var person in res) persons.Add(new PersonDto(person));
+            return new Response<List<PersonDto>>(persons);
+        }
+        [HttpPost]
+        [Route("[action]")] //en güvenli ve temiz yol
+        public Response<List<PersonDto>> ReadPersonsByQuery([FromBody] FilterPersonsDto dto)
+        {
+
+            var res = repository.persons
+                  .Where(x => x.UserMotivations.Any(m => dto.motivationIds.Contains(m.Id)))
+                   .Where(x => x.UserWorkingPreferences.Any(m => dto.workingPreferenceIds.Contains(m.Id)))
+              .Where(x => x.UserDistricts.Any(m => dto.districtIds.Contains(m.Id)));
+
+
+
+            var persons = new List<PersonDto>();
+            foreach (var person in res) persons.Add(new PersonDto(person));
+            return new Response<List<PersonDto>>(persons);
         }
     }
 }

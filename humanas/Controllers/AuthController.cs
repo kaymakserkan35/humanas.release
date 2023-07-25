@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Net.Http;
 using System.Text;
-using ui.Models;
+using ui.Models.ViewModels;
 using web.api.Controllers;
 using web.api.DTOS;
 using web.api.Utilities.Constants;

@@ -1,6 +1,7 @@
 ﻿using data.access;
 using Microsoft.AspNetCore.Mvc;
-using ui.Models;
+using ui.Models.EntityModels;
+using ui.Models.ViewModels;
 
 namespace ui.Components
 {

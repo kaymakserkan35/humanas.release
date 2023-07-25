@@ -9,6 +9,20 @@ namespace data.access.Context
 {
     internal class ContextFason : IContext
     {
+
+        public ContextFason()
+        {
+            var users = GetUsers(1000,true);
+            var dist = GetDistricts(12,true);
+            var mot = GetMotivations();
+            var pre = GetPreferences();
+
+            var userDistrtc = GetUserDistricts(users, dist);
+            var userMot = GetUserMotivations(users, mot);
+            var userPrefe = GetUserPreferences(users, pre);
+
+        }
+
         /// <summary>
         /// Her bir Repository nesnesi aynı cached listelerine erişecektir.
         /// çünkü bu listeler private static olarak tanımlanmıştır
@@ -38,14 +52,14 @@ namespace data.access.Context
 
 
 
-        internal List<UserExt> GetUsers(int num = 100, bool setId = true)
+        internal List<UserExt> GetUsers(int num = 1000, bool setId = true)
         {
             if (cachedUsers == null)
                 cachedUsers = Seed.seedUser(num, setId);
 
             return cachedUsers;
         }
-        internal List<District> GetDistricts(int num = 81, bool setId = true)
+        internal List<District> GetDistricts(int num = 51, bool setId = true)
         {
             if (cachedDistricts == null)
                 cachedDistricts = Seed.seedDistriact(num = 100, setId);
@@ -70,8 +84,6 @@ namespace data.access.Context
 
             return cachedUserDistricts;
         }
-
-        // Method to seed and get user motivations
         internal List<UserMotivation> GetUserMotivations(List<UserExt> users, List<Motivation> motivations)
         {
             if (cachedUserMotivations == null)

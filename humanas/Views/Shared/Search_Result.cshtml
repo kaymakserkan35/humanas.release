@@ -1,4 +1,12 @@
-﻿
+﻿@using ui.Models
+@model SearchResultModel
+
+
+@{
+    var pageSize = 6;
+
+    var pageNumber = 1;
+}
 
 <div class="mb-3">
 
@@ -16,59 +24,197 @@
 
 
 
-@{
-    for (int i = 0; i < 10; i++)
-    {
-       
-        <div class="row">
 
-            <div id="profile_context" class="d-flex  justify-content-around align-items-center">
 
-                <div>
-                    <a href="#">
-                        <div class="circle-wrap bg-danger">
-                            <div class="circle">
-                                <div class="mask full">
-                                    <div class="fill"></div>
-                                </div>
-                                <div class="mask half">
-                                    <div class="fill"></div>
-                                </div>
-                                <div class="inside-circle">
-                                    <img style="height: 150px; width: 150px;" src="/images/profile/7.svg">
-                                </div>
+
+<div class="d-flex justify-content-center ">
+
+
+
+    <div class="pagination">
+        <style>
+            /* Stil "a" elementleri için */
+            a.page-link {
+                /* Diğer stilleri buraya ekleyebilirsiniz */
+                cursor: pointer; /* Farenin üzerine gelindiğinde el şeklinde değişir */
+                color: blue; /* Renk değişikliği yapabilirsiniz */
+                text-decoration: underline; /* Altı çizili olarak gösterebilirsiniz */
+            }
+
+                /* Stil "a" elementlerinin üzerine gelindiğinde */
+                a.page-link:hover {
+                    /* Diğer stilleri buraya ekleyebilirsiniz */
+                    color: red; /* Renk değişikliği yapabilirsiniz */
+                    text-decoration: underline; /* Altı çizili olarak gösterebilirsiniz */
+                }
+        </style>
+
+        <a id="backward" class="page-link"  aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+
+        </a>
+
+        <span id="sayfa_bilgilendirme"
+              class="badge rounded-pill text-bg-dark"
+              style="display: flex; align-items: center; font-size: 16px;">45-12 / 1000</span>
+
+        <a id="forward" class="page-link"  aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+
+        </a>
+
+    </div>
+
+
+</div>
+
+
+
+<div id="persons_container">
+    <div class="row" id="veri_satiri">
+
+        <div id="profile_context" class="d-flex  justify-content-around align-items-center">
+
+            <div class="outer_wrap" style="position:relative">
+                <a href="#">
+                    <div class="circle-wrap bg-danger">
+                        <div class="circle">
+                            <div class="mask full">
+                                <div class="fill"></div>
+                            </div>
+                            <div class="mask half">
+                                <div class="fill"></div>
+                            </div>
+                            <div class="inside-circle">
+                                <img id="person_profile_picture" style="height: 150px; width: 150px;" src="/images/profile/7.svg">
                             </div>
                         </div>
-                    </a>
-                </div>
-
-
-
-                <div class="d-flex flex-column">
-                    <span>name surname</span>
-                    <div>açılama</div>
-                    <div>
-                        <span class="badge rounded-pill text-bg-primary">html</span>
-                        <span class="badge rounded-pill text-bg-primary">java</span>
-                        <span class="badge rounded-pill text-bg-primary">C#</span>
                     </div>
-                    <div>
-                        <span class="badge bg-primary">23%</span>
-                        <span class="badge bg-primary">57%</span>
-                        <span class="badge bg-primary">34%</span>
-                    </div>
-                </div>
-                <div class="d-flex flex-column ">
+                </a>
+            </div>
 
-                    <a href="#" class="badge bg-primary">View Meta CV</a>
-                    <a href="#" class="badge bg-primary">Order</a>
+
+
+            <div id="veri_alani" class="d-flex flex-column">
+                <span id="name_surname">  </span>
+                <div>açılama</div>
+                <div>
+                    <span class="badge rounded-pill text-bg-primary">html</span>
+                    <span class="badge rounded-pill text-bg-primary">java</span>
+                    <span class="badge rounded-pill text-bg-primary">C#</span>
+                </div>
+                <div>
+                    <span class="badge bg-primary">23%</span>
+                    <span class="badge bg-primary">57%</span>
+                    <span class="badge bg-primary">34%</span>
                 </div>
             </div>
-        </div>
-        <hr>
-    }
-}
+            <div class="d-flex flex-column ">
 
+                <a href="#" class="badge bg-primary">View Meta CV</a>
+                <a href="#" class="badge bg-primary">Order</a>
+            </div>
+        </div>
+    </div>
+    <hr>
+
+
+
+</div>
+
+
+
+<script>
+
+    document.addEventListener("DOMContentLoaded", function () {
+        var veriListesi = @Html.Raw(Json.Serialize(Model.searchPersonModels));
+
+        sayfa_numarası = 1;
+        veri_sayisi = veriListesi.length;
+        sayfada_kac_item_gosterilicek = 10;
+        sayfa_sayisi = Math.ceil(veri_sayisi / sayfada_kac_item_gosterilicek)
+
+        const veri_satiri = document.getElementById('veri_satiri');
+        console.log(veri_satiri)
+        const veri_satiri_klon = veri_satiri.cloneNode(true);
+        veri_satiri.style.display = "none";
+        for (let index = 0; index < sayfada_kac_item_gosterilicek; index++) {
+            const veri = veriListesi[index];
+            console.log(veri)
+            const satir = veri_satiri_klon.cloneNode(true);
+            console.log(satir)
+            satir.id = "veri_satiri_" + veri.id;
+            const spn = satir.querySelector("#name_surname");
+            console.log(spn)
+            spn.id = "name_surname_" + veri.id;
+            spn.textContent = veri.name + ":" + veri.surname;
+            console.log(spn)
+            c = document.getElementById("persons_container")
+            console.log(c)
+            satir.style.display = "block";
+            c.appendChild(satir);
+        }
+
+
+        function refreshPage() {
+
+            index_0 = (sayfa_numarası - 1) * sayfada_kac_item_gosterilicek;
+            gosteriecel_veri = veriListesi.slice(index_0, index_0 + sayfada_kac_item_gosterilicek)
+            const veriSatirlari = Array.from(document.querySelectorAll('[id^="veri_satiri"]'));
+            veriSatirlari.forEach(x => { x.style.display = "none" })
+            for (let index = 0; index < gosteriecel_veri.length; index++) {
+
+                satir = veriSatirlari[index];
+                satir.style.display = "block"
+                veri = gosteriecel_veri[index];
+                satir.id = "veri_satiri_" + veri.id;
+                const spn = satir.querySelector('[id*="name_surname"]');
+                spn.id = "name_surname_" + veri.id;
+                spn.textContent = veri.name + ":" + veri.surname;
+                c = document.getElementById("persons_container")
+                satir.style.display = "block";
+
+                var img = satir.querySelector("[id*=person_profile_picture]");
+                img.id = "person_profile_picture_"+veri.id;
+                max=7;
+                min=2;
+                random = (Math.floor(Math.random() * 5) + 3);
+                img.src = "/images/profile/" +  String(random) + ".svg"
+
+                c.appendChild(satir);
+
+            }
+            sayfa_bilgilendirme = String(index_0 + 1) + "-" + String(index_0 + + gosteriecel_veri.length) + " / " + veriListesi.length
+            document.querySelector('[id=sayfa_bilgilendirme]').textContent = sayfa_bilgilendirme
+        }
+        refreshPage()
+
+        document.querySelector("[id=backward]").addEventListener("click", () => {
+            console.log(sayfa_numarası)
+            if (sayfa_numarası == 1) return;
+            sayfa_numarası = sayfa_numarası - 1;
+            refreshPage();
+        });
+        document.querySelector("[id=forward]").addEventListener("click", () => {
+            console.log(sayfa_numarası)
+            if (sayfa_numarası == sayfa_sayisi) return;
+            sayfa_numarası = sayfa_numarası + 1;
+            refreshPage();
+        });
+
+
+
+
+
+
+
+
+
+    });
+
+
+
+</script>
 
 
 <link href="~/css/search_result.css" rel="stylesheet" />

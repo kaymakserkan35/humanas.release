@@ -16,6 +16,7 @@ namespace data.access
         public RepositoryFason()
         {
             context = new ContextFason();
+           
         }
 
         public List<District> districts => context._Districts;
@@ -23,5 +24,7 @@ namespace data.access
         public List<WorkingPreference> workingPreferences => context._WorkingPreferences;
 
         public List<Motivation> motivations => context._Motivations;
+
+        public List<UserExt> persons => context._Users;
     }
 }

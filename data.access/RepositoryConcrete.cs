@@ -24,5 +24,7 @@ namespace data.access
         public List<Motivation> motivations => context.Motivations.ToList();
 
         public List<WorkingPreference> workingPreferences => context.WorkingPreferences.ToList();
+
+        public List<UserExt> persons => context.Users.ToList();
     }
 }

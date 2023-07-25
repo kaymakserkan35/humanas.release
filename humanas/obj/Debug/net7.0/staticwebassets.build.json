@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "zyCo/O4zyC/03S1Tf6eVyo82ScA8X570f52oQyy2hBs=",
+  "Hash": "+zjrYsFfF49ld/rABHR0Wvycvc0ACb1wFCI6p4HqJnU=",
   "Source": "ui",
   "BasePath": "_content/ui",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\web.api\\web.api.csproj",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\web.api\\web.api.csproj",
       "Version": 2,
       "Source": "web.api",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "ui\\wwwroot",
       "Source": "ui",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\css\\auth.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\css\\auth.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "css/auth.css",
       "AssetKind": "All",
@@ -46,10 +46,10 @@
       "OriginalItemSpec": "wwwroot\\css\\auth.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\css\\Circler_Progress.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\css\\Circler_Progress.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "css/Circler_Progress.css",
       "AssetKind": "All",
@@ -63,10 +63,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Circler_Progress.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\css\\header.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\css\\header.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "css/header.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\header.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\css\\Profile.Circler.Progress.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\css\\Profile.Circler.Progress.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "css/Profile.Circler.Progress.css",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Profile.Circler.Progress.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\css\\Search_Result.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\css\\Search_Result.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "css/Search_Result.css",
       "AssetKind": "All",
@@ -114,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Search_Result.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\css\\site.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\favicon.ico",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -148,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\all.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\all.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/all.css",
       "AssetKind": "All",
@@ -165,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\all.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\all.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\all.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/all.min.css",
       "AssetKind": "All",
@@ -182,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\brands.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\brands.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/brands.css",
       "AssetKind": "All",
@@ -199,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\brands.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\brands.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/brands.min.css",
       "AssetKind": "All",
@@ -216,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\fontawesome.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/fontawesome.css",
       "AssetKind": "All",
@@ -233,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -250,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\regular.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\regular.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/regular.css",
       "AssetKind": "All",
@@ -267,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\regular.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\regular.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/regular.min.css",
       "AssetKind": "All",
@@ -284,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\solid.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\solid.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/solid.css",
       "AssetKind": "All",
@@ -301,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\solid.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\solid.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/solid.min.css",
       "AssetKind": "All",
@@ -318,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\svg-with-js.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/svg-with-js.css",
       "AssetKind": "All",
@@ -335,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-font-face.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/v4-font-face.css",
       "AssetKind": "All",
@@ -369,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-font-face.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/v4-font-face.min.css",
       "AssetKind": "All",
@@ -386,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-shims.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/v4-shims.css",
       "AssetKind": "All",
@@ -403,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -420,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v5-font-face.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/v5-font-face.css",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v5-font-face.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/css/v5-font-face.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\all.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\all.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/all.js",
       "AssetKind": "All",
@@ -471,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\all.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\all.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\all.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/all.min.js",
       "AssetKind": "All",
@@ -488,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\all.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\brands.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\brands.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/brands.js",
       "AssetKind": "All",
@@ -505,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\brands.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\brands.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/brands.min.js",
       "AssetKind": "All",
@@ -522,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\conflict-detection.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/conflict-detection.js",
       "AssetKind": "All",
@@ -539,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/conflict-detection.min.js",
       "AssetKind": "All",
@@ -556,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\fontawesome.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/fontawesome.js",
       "AssetKind": "All",
@@ -573,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/fontawesome.min.js",
       "AssetKind": "All",
@@ -590,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\regular.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\regular.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/regular.js",
       "AssetKind": "All",
@@ -607,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\regular.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\regular.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/regular.min.js",
       "AssetKind": "All",
@@ -624,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\solid.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\solid.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/solid.js",
       "AssetKind": "All",
@@ -641,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\solid.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\solid.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/solid.min.js",
       "AssetKind": "All",
@@ -658,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\v4-shims.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/v4-shims.js",
       "AssetKind": "All",
@@ -675,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/js/v4-shims.min.js",
       "AssetKind": "All",
@@ -692,10 +692,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\sprites\\brands.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/sprites/brands.svg",
       "AssetKind": "All",
@@ -709,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\sprites\\brands.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\sprites\\regular.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/sprites/regular.svg",
       "AssetKind": "All",
@@ -726,10 +726,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\sprites\\regular.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\sprites\\solid.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/sprites/solid.svg",
       "AssetKind": "All",
@@ -743,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\sprites\\solid.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -760,10 +760,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -811,10 +811,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -828,10 +828,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -845,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -862,10 +862,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "font-awesome/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -879,10 +879,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\logo\\apple.logo.dark.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\logo\\apple.logo.dark.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/logo/apple.logo.dark.svg",
       "AssetKind": "All",
@@ -896,10 +896,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\apple.logo.dark.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\logo\\apple.logo.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\logo\\apple.logo.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/logo/apple.logo.svg",
       "AssetKind": "All",
@@ -913,10 +913,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\apple.logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\logo\\logo.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\logo\\logo.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/logo/logo.svg",
       "AssetKind": "All",
@@ -930,10 +930,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\1.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\1.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/1.png",
       "AssetKind": "All",
@@ -947,10 +947,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\2.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\2.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/2.png",
       "AssetKind": "All",
@@ -964,10 +964,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\3.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\3.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/3.svg",
       "AssetKind": "All",
@@ -981,10 +981,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\3.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\4.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\4.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/4.svg",
       "AssetKind": "All",
@@ -998,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\4.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\5.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\5.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/5.svg",
       "AssetKind": "All",
@@ -1015,10 +1015,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\5.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\6.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\6.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/6.svg",
       "AssetKind": "All",
@@ -1032,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\6.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\7.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\7.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/7.svg",
       "AssetKind": "All",
@@ -1049,10 +1049,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\7.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\8.svg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\8.svg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/8.svg",
       "AssetKind": "All",
@@ -1066,10 +1066,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\8.svg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\profile\\profil.picture.jpg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\profile\\profil.picture.jpg",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/profile/profil.picture.jpg",
       "AssetKind": "All",
@@ -1083,10 +1083,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile\\profil.picture.jpg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\App Store.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\App Store.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/App Store.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\App Store.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\facebook.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\facebook.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/facebook.png",
       "AssetKind": "All",
@@ -1117,10 +1117,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\facebook.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\Google Play.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\Google Play.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/Google Play.png",
       "AssetKind": "All",
@@ -1134,10 +1134,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\Google Play.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\instagram.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\instagram.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/instagram.png",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\instagram.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\linkedin.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\linkedin.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/linkedin.png",
       "AssetKind": "All",
@@ -1168,10 +1168,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\linkedin.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\tree.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\tree.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/tree.png",
       "AssetKind": "All",
@@ -1185,10 +1185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\tree.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\twitter.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\twitter.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/twitter.png",
       "AssetKind": "All",
@@ -1202,10 +1202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\twitter.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\images\\social.media\\youtube.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\images\\social.media\\youtube.png",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "images/social.media/youtube.png",
       "AssetKind": "All",
@@ -1219,10 +1219,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social.media\\youtube.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\jquery\\jquery.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "jquery/jquery.js",
       "AssetKind": "All",
@@ -1236,10 +1236,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\jquery\\jquery.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "jquery/jquery.min.js",
       "AssetKind": "All",
@@ -1253,10 +1253,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\jquery\\jquery.min.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "jquery/jquery.min.map",
       "AssetKind": "All",
@@ -1270,10 +1270,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\jquery\\jquery.slim.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -1287,10 +1287,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\jquery\\jquery.slim.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -1304,10 +1304,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\jquery\\jquery.slim.min.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "jquery/jquery.slim.min.map",
       "AssetKind": "All",
@@ -1321,10 +1321,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\js\\Circler_Progress.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\js\\Circler_Progress.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "js/Circler_Progress.js",
       "AssetKind": "All",
@@ -1338,10 +1338,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Circler_Progress.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1355,10 +1355,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1372,10 +1372,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1389,10 +1389,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1406,10 +1406,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1440,10 +1440,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1457,10 +1457,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1474,10 +1474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1491,10 +1491,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1525,10 +1525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1542,10 +1542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1559,10 +1559,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1576,10 +1576,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1593,10 +1593,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1610,10 +1610,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1627,10 +1627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1644,10 +1644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1661,10 +1661,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1678,10 +1678,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1695,10 +1695,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1712,10 +1712,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1729,10 +1729,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1763,10 +1763,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1780,10 +1780,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1797,10 +1797,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1814,10 +1814,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1831,10 +1831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1848,10 +1848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1882,10 +1882,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\IndexStyle.css",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\css\\IndexStyle.css",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/css/IndexStyle.css",
       "AssetKind": "All",
@@ -1899,10 +1899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\IndexStyle.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1916,10 +1916,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1933,10 +1933,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1950,10 +1950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1967,10 +1967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1984,10 +1984,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2001,10 +2001,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2018,10 +2018,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2035,10 +2035,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2052,10 +2052,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2086,10 +2086,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2103,10 +2103,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2120,10 +2120,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2137,10 +2137,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2154,10 +2154,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2171,10 +2171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2188,10 +2188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2205,10 +2205,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2239,10 +2239,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2256,10 +2256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2273,10 +2273,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2290,10 +2290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2307,10 +2307,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\8\\humanas\\humanas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\wwwroot\\",
       "BasePath": "_content/ui",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

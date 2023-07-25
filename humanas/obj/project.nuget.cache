@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Geo441HMXvzoog9ba8N1sON1K/B1869TiUBBXzvPGAvauuXrXdsylAQxQU916mx/sQx/Ehfi2k/aagsajsgGcw==",
+  "dgSpecHash": "TQfY1aMxRKFnlQofvOX4sNCX8JeOQQkelHOLVz+pwBs3UUxpPsJrq/Llx2EOXd3X8lXF+lcG5qLMzDvFMYKvaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\humanas.release\\humanas\\humanas.release.githup\\humanas\\ui.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\humanas\\ui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",

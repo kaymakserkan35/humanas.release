@@ -84,9 +84,9 @@ namespace web.api.Controllers
         {
 
             var res = repository.persons
-                  .Where(x => x.UserMotivations.Any(m => dto.motivationIds.Contains(m.Id)))
-                   .Where(x => x.UserWorkingPreferences.Any(m => dto.workingPreferenceIds.Contains(m.Id)))
-              .Where(x => x.UserDistricts.Any(m => dto.districtIds.Contains(m.Id)));
+                  .Where(x => x.UserMotivations.Any(m => dto.motivationIds.Contains(m.MotivationId)))
+                   .Where(x => x.UserWorkingPreferences.Any(m => dto.workingPreferenceIds.Contains(m.WorkingPreferenceId)))
+              .Where(x => x.UserDistricts.Any(m => dto.districtIds.Contains(m.DistrictId)));
 
 
 

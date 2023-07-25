@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t/CzpdWB9Uv5vBiye9+TTyfgDGFX/Z1GfT53iJ8v+qJcL75+YTNOPctcTRyusqr7+uBgrp2Ys7RS9nQ9NU1JGA==",
+  "dgSpecHash": "Qj6Uvu4olboJeVdtaV1IyJ00UPFhI+x4hzQm3Hf8FM4AU1/nQB06T4AeKw2QYBuaA5yU7keN6VH4h23oR4zo9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\humanas.release\\humanas\\humanas.release.githup\\web.api\\web.api.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\humanas\\humanas\\9\\humanas\\web.api\\web.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
